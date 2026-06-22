@@ -1,0 +1,40 @@
+body{
+	background-color: white;
+}
+.form{
+	background-color: white;
+	color: black;
+	max-width: 500px;
+	margin: 20px auto;
+}
+h1{
+	color: red;
+	background-color: black;
+	width: 500px;
+	margin: 20px;
+	padding;20px;
+	text-align: center;
+}
+label{
+	display: block;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding: 10px;
+	color: green;
+}
+input,select{
+	display: block;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding:10px;
+	width: 100%;
+	border 2px solid green;
+}
+button{
+	color:blue;
+	margin: 20px;
+	padding: 10px;
+	border: none;
+	text-align: center;
+}

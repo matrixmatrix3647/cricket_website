@@ -1,0 +1,29 @@
+body{
+	color:white;
+	background-color: green;
+}
+.response{
+	background-color: green;
+	color:blue;
+    max-width: 500px;
+    margin: 40px auto;
+}
+h1{
+	text-align: center;
+	color: red;
+	background-color: black;
+	padding: 15px;
+
+}
+p{
+	font-size: 24px;
+	color:black;
+}
+.response a{
+	display: block;
+	color: green;
+	background-color: blue;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+}
