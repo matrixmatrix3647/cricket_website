@@ -17,6 +17,7 @@ body{
  	max-width: 400px;
  	text-decoration: none;
  	transition: 0.3s;
+ 	border-radius: 50px;
  }
  .links a:hover{
  	background-color: red;

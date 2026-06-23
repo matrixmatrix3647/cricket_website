@@ -38,6 +38,7 @@ button{
 	border: none;
 	text-align: center;
 	transition: 0.3s;
+	border-radius: 50px;
 }
 button:hover{
 	color: red;

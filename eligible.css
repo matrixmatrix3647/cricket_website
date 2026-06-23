@@ -11,6 +11,7 @@ body{
 	display: block;
 	text-decoration: none;
 	transition: 0.3s;
+	border-radius: 50px;
 }
 h1{
 	color: red;
