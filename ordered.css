@@ -23,5 +23,10 @@ h1{
 }
 .home{
 	color: green !important;
-	background-color: white !important;
+	background-color: blue !important;
+    transition: 0.3s;
+}
+.home:hover{
+	color: blue !important;
+	background-color: red !important;
 }

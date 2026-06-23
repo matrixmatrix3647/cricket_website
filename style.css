@@ -16,6 +16,11 @@ body{
  	margin: 15px auto;
  	max-width: 400px;
  	text-decoration: none;
+ 	transition: 0.3s;
+ }
+ .links a:hover{
+ 	background-color: red;
+ 	color:green;
  }
  h1{
  	background-color: black;

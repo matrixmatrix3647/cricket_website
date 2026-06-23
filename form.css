@@ -37,4 +37,9 @@ button{
 	padding: 10px;
 	border: none;
 	text-align: center;
+	transition: 0.3s;
+}
+button:hover{
+	color: red;
+	background-color: green;
 }
