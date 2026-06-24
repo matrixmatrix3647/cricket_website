@@ -7,27 +7,27 @@
 <body>
 	<div class="form">
 	<h1>cricket selection form</h1>
-	<form action="response.html" method="">
+	<form action="https://formspree.io/f/xeebeolz" method="post" id="myform">
 		<label>name</label>
-		<input type="text">
+		<input type="text" id="name" name="name">
 		<br>
 		<label>age</label>
-		<input type="number">
+		<input type="number" id="age" name="age">
 		<br>
 		<label>email</label>
-		<input type="email">
+		<input type="email" id="email" name="email">
 		<br>
 		<label>phone</label>
-		<input type="number">	
+		<input type="number" id="phone" name="phone">	
 		<br>
-		<select>
+		<select id="role" name="role">
 			<option>select</option>
 			<option>bowler</option>
 			<option>batsman</option>
 			<option>allrounder</option>
 		</select>
 		<br>
-		<select>
+		<select id="hand" name="hand">
 			<option>select</option>
 			<option>right hand</option>
 			<option>left hand</option>
@@ -37,6 +37,7 @@
 
 	</form>
 </div>
+<script src="script.js"></script>
 </body>
 </html>
 
